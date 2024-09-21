@@ -16,7 +16,7 @@ Using a single source file for multiple purposes reduces maintenance, and makes 
 your different output formats are synced with each other.
 
 This README was generated directly from
-[this source file](https://github.com/fredrikekre/Literate.jl/blob/master/examples/README.jl)
+[this source file](https://github.com/am3lue/Literate.jl/blob/master/examples/README.jl)
 running these commands from the package root of Literate.jl:
 
 ````julia
@@ -43,5 +43,5 @@ Literate.markdown("examples/README.jl", "."; flavor=Literate.CommonMarkFlavor())
 
 ---
 
-*This page was generated using [Literate.jl](https://github.com/fredrikekre/Literate.jl).*
+*This page was generated using [Literate.jl](https://github.com/am3lue/Literate.jl).*
 
